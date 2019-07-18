@@ -1,0 +1,14 @@
+{
+	"name": "tarun/netsuite-api_php_toolkit",
+	"type": "library",
+	"description": "Netsuite API PHP tolkit composer package",
+	"authors": [
+		{
+			"name": "Tarun",
+			"email": "tarun.techmarbles@gmail.com",
+			"homepage": "https://techmarbles.com",
+			"role": "Developer"
+		}
+	],
+	"require": {}
+}
