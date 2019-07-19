@@ -1,4 +1,5 @@
 <?php
+namespace PHPToolkit;
 
 /**
  * Copyright © 2015, NetSuite, Inc.
