@@ -1,5 +1,5 @@
 {
-	"name": "tarun/netsuite-api_php_toolkit",
+	"name": "tarun/netsuite-api",
 	"type": "library",
 	"description": "Netsuite API PHP tolkit composer package",
 	"keywords": ["Netsuite","Netsuite PHP toolkit","PHP API Netsuite","Netsuite API PHP toolkit"],
@@ -12,15 +12,15 @@
 		}
 	],
 	"autoload": {
-		
+
 		"psr-4": {
-			"PHPToolkit\\": "src/"
+			"NetSuite\\": "src/"
 		}
 	},
 	"minimum-stability": "dev",
 	"require": {
 		"php": ">=7.0"
 
-		
+
 	}
 }

@@ -1,1 +1,26 @@
-/vendor/
+{
+"name": "tarun/netsuite-api",
+"type": "library",
+"description": "Netsuite API PHP tolkit composer package",
+"keywords": ["Netsuite","Netsuite PHP toolkit","PHP API Netsuite","Netsuite API PHP toolkit"],
+"authors": [
+{
+"name": "Tarun",
+"email": "tarun.techmarbles@gmail.com",
+"homepage": "https://techmarbles.com",
+"role": "Developer"
+}
+],
+"autoload": {
+
+"psr-4": {
+"NetSuite\\": "src/"
+}
+},
+"minimum-stability": "dev",
+"require": {
+"php": ">=7.0"
+
+
+}
+}
