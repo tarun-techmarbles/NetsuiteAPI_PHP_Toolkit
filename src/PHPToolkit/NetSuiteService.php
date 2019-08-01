@@ -1,11 +1,11 @@
 <?php
-namespace PHPToolkit;
+//namespace tarun\netsuiteapi;
 
 /**
  * Copyright © 2015, NetSuite, Inc.
  */
 
-require_once "NSPHPClient.php";
+//require_once "NSPHPClient.php";
 
 if (!class_exists("RecordType")) {
 /**

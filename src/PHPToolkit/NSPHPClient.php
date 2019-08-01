@@ -1,6 +1,9 @@
 <?php
+namespace tarun\netsuiteapi;
 
 require_once "NSconfig.php";
+require_once "NetSuiteService.php";
+
 
 function arrayValuesAreEmpty ($array)
 {
